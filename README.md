@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhkthakur
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Front End development
+- 🌱 I’m currently learning Back End development
 - 📫 How to reach me Email - mehakthakur192@gmail.com
 
 <!---
